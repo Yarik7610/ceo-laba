@@ -1,0 +1,9 @@
+User-Agent: Yandex
+Disallow: /img
+Disallow: /css1
+Allow: /*.js
+Sitemap: https://likeit.pro/sitemap.xml
+
+User-Agent: *
+Disallow: *.php
+Sitemap: https://likeit.pro/sitemap.xml
